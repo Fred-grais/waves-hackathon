@@ -60,6 +60,6 @@ const setScriptResult1 = await Waves.API.Node.transactions.rawBroadcast(txJSON1)
 You can use any http server, i recommend node http-server
 ```
 Go to /dist
-run http-serber
+run http-server
 navigate to http://127.0.0.1:8080/#/
 ```
